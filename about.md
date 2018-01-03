@@ -7,4 +7,4 @@ My name is Patrick Huang and I am currently a Sophomore at Southridge High Schoo
 
 YouTube channel: <a href="https://www.youtube.com/user/xtradv112"> xtradv </a>
 
-<a href="https://allaboutpatrick.wordpress.com/coding/">Here's a link to my page about coding</a>
+<a href="/coding/">Here's a link to my page about coding</a>
