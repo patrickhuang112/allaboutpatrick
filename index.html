@@ -1,38 +1,15 @@
 ---
 layout: default
-title: Home
+title: Welcome!
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h1>Welcome!</h1>
+fdsfsdfsdf
+Hello new visitors to my website! My name is Patrick Huang and welcome to my website. Anticipating new visitors, this is a new post that will serve as a temporary homepage before I make some new changes.
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+On this website, you will find information about my passion for video editing and also instructions on how I created this website with Jekyll. Thanks for your visit!
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+
+
 

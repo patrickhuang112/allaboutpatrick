@@ -18,16 +18,32 @@ I then headed over to their github repository and forked their code to my accoun
 
 <b>Step 3</b>: Editing pages and content was quite easily. Each content file was in markdown so modifying content was very simple. Once I had finished modifying my content, I uploaded my changes to my own repository on GitHub to keep an online revision control.
 
+<br />
 
-"git status" : I used this command to view what content was to be pushed online.
+<pre>"git status" </pre> I used this command to view what content was to be pushed online.
 
-"git add "file name" : I used this command to add revized local files to be pushed online.
+<pre>"git add "file name" </pre> I used this command to add revised local files to be pushed online.
 
-"git commit -am "comment" : I used this command to add a comment detailing what was changed in the local file.
+<pre>"git commit -am "comment" </pre> I used this command to add a comment detailing what was changed in the local file.
 
-"git push" : I used this command to push comments and local files online.
+<pre>"git push" </pre>I used this command to push comments and local files online.
+<Br />
+<br />
+<Br />
+<br />
+<b>Step 4</b>: Setting up Amazon Web services. My father and I worked to buy a domain and to set up the address for the website. Below is a screenshot of the settings of the bucket that the files are located.
+<br />
+<br />
+<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss6.png?ssl=1&w=450" style = "margin: auto"/>
+<br />
+<br />
+<br />
+<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss5.png?ssl=1&w=450" style = "margin: auto" />
+<br />
+<br />
+<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss4.png?ssl=1&w=450" style = "margin: auto" />
 
-<b>Step 4</b>: Setting up Amazon Web services. My father and I worked to buy a domain and to set up the address for the website. This step of the creation process will be updated later.
+
 
 <b>Step 5</b>: The contents of my website were stored in the Amazon S3 bucket. To push local changes to the actual website on the world wide web, a series of commands were executed.
 

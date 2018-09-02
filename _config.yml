@@ -7,8 +7,8 @@ permalink:           pretty
 
 # Setup
 title:               All About Patrick
-tagline:             'Everything about me'
-description:         'A website containing information and projects from me.'
+tagline:             ''
+description:         'Patrick Huang: SRHS 2019'
 url:                 http://www.youtube.com/user/xtradv112
 baseurl:             ''
 paginate:            5

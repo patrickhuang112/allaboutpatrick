@@ -1,6 +1,18 @@
 ---
 layout: page
-title: Editing
+title: Editing/VFX
 ---
 
-One of my favorite things to do is to short clip edit. I have a whole YouTube channel with my edits (you can find it in the about page). On this website, I hope to provide resources for new editors to learn the basics and hopefully, join the community and become a great editor.
+One of my favorite things to do is to short clip edit. I have a whole <a href = "https://www.youtube.com/channel/UC0vGApkXxaLQNQzw0ZC1SyQ">YouTube channel</a> with my edits. On this website, I hope to showcase the work I have created and provide tips to help prospective editors join the community.
+
+Below are screenshots from some of my works.
+<br />
+<br />
+<br />
+<img src="https://allaboutpatrick.files.wordpress.com/2018/09/ss1.png?ssl=1&w=450" style = "margin:auto;"/>
+<br />
+<br />
+<img src="https://allaboutpatrick.files.wordpress.com/2018/09/ss2.png?ssl=1&w=450" style = "margin:auto;"/>
+<br />
+<br />
+<img src="https://allaboutpatrick.files.wordpress.com/2018/09/ss3.png?ssl=1&w=450" style = "margin:auto;"/>
