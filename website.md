@@ -20,13 +20,13 @@ I then headed over to their github repository and forked their code to my accoun
 
 <br />
 
-<pre>"git status" </pre> I used this command to view what content was to be pushed online.
+<pre>git status </pre> I used this command to view what content was to be pushed online.
 
-<pre>"git add "file name" </pre> I used this command to add revised local files to be pushed online.
+<pre>git add "file name" </pre> I used this command to add revised local files to be pushed online.
 
-<pre>"git commit -am "comment" </pre> I used this command to add a comment detailing what was changed in the local file.
+<pre>git commit -am "comment" </pre> I used this command to add a comment detailing what was changed in the local file.
 
-<pre>"git push" </pre>I used this command to push comments and local files online.
+<pre>git push</pre>I used this command to push comments and local files online.
 <Br />
 <br />
 <Br />
@@ -34,22 +34,35 @@ I then headed over to their github repository and forked their code to my accoun
 <b>Step 4</b>: Setting up Amazon Web services. My father and I worked to buy a domain and to set up the address for the website. Below is a screenshot of the settings of the bucket that the files are located.
 <br />
 <br />
-<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss6.png?ssl=1&w=450" style = "margin: auto"/>
+<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss6.png?ssl=1&w=1000w" style = "margin: auto"/>
 <br />
 <br />
 <br />
-<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss5.png?ssl=1&w=450" style = "margin: auto" />
+<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss5.png?ssl=1&w=1000" style = "margin: auto" />
 <br />
 <br />
-<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss4.png?ssl=1&w=450" style = "margin: auto" />
+<img src= "https://allaboutpatrick.files.wordpress.com/2018/09/ss4.png?ssl=1&w=1000" style = "margin: auto" />
+<br />
+<br />
+After configuring your bucket settings, it is important to copy the link you see down below into your route 53.
+<br />
+<br />
+<img src="https://allaboutpatrick.files.wordpress.com/2018/09/imp1.png?ssl=1&w=1000" style = "margin: auto" />
+<br />
+<br />
+Delete your domain name from the beginning of the link (patrickhuang.me for me) and copy the link to your page in Route 53 down below
+<br />
+<br />
+<img src = "https://allaboutpatrick.files.wordpress.com/2018/09/imp2.png?ssl=1&w=1000" style = "margin:auto" />
 
-
+<Br />
+<br />
 
 <b>Step 5</b>: The contents of my website were stored in the Amazon S3 bucket. To push local changes to the actual website on the world wide web, a series of commands were executed.
 
 First, I navigated to my "_site" folder locally. From there, I ran bash and ran this command.
 
-"aws s3 sync . s3://patrickhuang.me"
+<pre>aws s3 sync . s3://patrickhuang.me</pre>
 
 This command essentially synchronizes the local files with the files in the S3 bucket, essentially updating the public website.
 
