@@ -3,6 +3,8 @@ layout: page
 title: Creating this website
 ---
 
+This page will detail the steps I did to create this website. Using my steps as a template, you can create your very own website today!
+
 <b>Step 1</b>: What I first did was visit the jekyll website and go to this page about jekyll on windows 10.
 
 <a href = "https://jekyllrb.com/docs/windows/">Jekyll on windows</a> 
