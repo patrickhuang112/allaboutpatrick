@@ -5,7 +5,7 @@ title: Programming
 
 In the summer of 2018, I worked at an internship at Portland State University. I worked in a team headed by <a href = "http://web.cecs.pdx.edu/~aryafare/">Professor Ehsan Aryafar</a> and helped his team develop a product to cheaply allow users to access computing resources. 
 
-In the intership, I worked on two significant projects. The first was creating the website for the team's product. The code of the website is hosted on <a href = "https://github.com/shared-systems/website">Github</a>. To see an older (deprecated) version of the website, visit <a href = "http://ase.patrickhuang.me/">here</a>. Below is an image of the homepage of the website.
+In the intership, I worked on two significant projects. The first was creating the website for the team's product. The code of the website is hosted on <a href = "https://github.com/shared-systems/website">Github</a>.  Below is an old image of the homepage. You can find the current website <a href = "https://deepmarket.cs.pdx.edu/">here</a>.
 
 <Br/>
 <img src = "https://allaboutpatrick.files.wordpress.com/2018/09/home_page.png?ssl=1&w=450" style="margin:auto;"/>

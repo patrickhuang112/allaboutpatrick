@@ -16,6 +16,9 @@ Below are screenshots from some of my works. Click each image to visit the video
 <br />
 <br />
 <a href = "https://www.youtube.com/watch?v=xiN4HlCoUHs"><img src="https://allaboutpatrick.files.wordpress.com/2018/09/ss3.png?ssl=1&w=450" style = "margin:auto;"/></a>
+<br />
+<br />
+<a href = "https://www.youtube.com/watch?v=qCFmXAY07oY"><img src="https://allaboutpatrick.files.wordpress.com/2018/10/history1.png?w=450" style = "margin:auto;"/></a>
 
 <br />
 In case you want to learn how to edit yourself, here is a couple of good tutorials to help you get started. Just click the links to watch each tutorial!
