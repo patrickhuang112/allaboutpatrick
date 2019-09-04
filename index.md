@@ -6,7 +6,7 @@ title: Latest Posts
 
 Hello new visitors to my website! My name is Patrick Huang and welcome to my website. 
 
-On this website, you will find information about my hobbies of video editing, programming, and also instructions on how I created this website with Jekyll. Thanks for your visit!
+On this website, you will find information about my hobbies of video editing, programming, and also instructions on how I created this website with Jekyll. Thank you for visiting!
 
 
 
