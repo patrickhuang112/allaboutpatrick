@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Programming
+title: Projects
 ---
+<h2>3D Chinese Chess</h2>
 
-<h1>DeepMarket Project</h1>
+<Br/>
+<img src = "https://i.imgur.com/YaSLl1a.png" style="margin:auto;" width = "70%" height = "70%"/>
+<br />
+
+This was my final term project for 15-112: Fundamentals of Programming and Computer Science. My goal was to create a working version of Chinese Chess that was 3 dimensional with a movable camera and extruded pieces. More information about the project and the source code is hosted <a href = "https://github.com/patrickhuang112/chinese-chess-112">here</a> on my github
+
+
+<h2>DeepMarket Project</h2>
 
 In the summer of 2018, I worked at an internship at Portland State University. I worked in a team headed by <a href = "http://web.cecs.pdx.edu/~aryafare/">Professor Ehsan Aryafar</a> and helped his team develop a product to cheaply allow users to access computing resources. 
 
